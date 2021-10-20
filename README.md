@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo7229
-Fork on GitHub1397
 <h1 align="center">Hi 👋, I'm Pol Bachelin</h1>
 <h3 align="center">A computer science student that loves low-level programming and back-end</h3>
 
