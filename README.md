@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pol Bachelin</h1>
-<h3 align="center">A computer science student that loves low-level programming and back-end</h3>
+<h3 align="center">I am passionate about computer science and I love low-level programming and back-end</h3>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
